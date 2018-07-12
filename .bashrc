@@ -116,4 +116,4 @@ if ! shopt -oq posix; then
   fi
 fi
 
-alias mygcc='gcc -Wextra -Wall -Wfloat-equal -Wundef -Wshadow -Wpointer-arith -Wcast-align Wstrict-prototypes -Wwrite-strings -Wunreachable-code -o'
+alias mygcc='gcc -Wextra -Wall -Wfloat-equal -Wundef -Wshadow -Wpointer-arith -Wcast-align -Wwrite-strings -Wunreachable-code'

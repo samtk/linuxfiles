@@ -1,0 +1,5 @@
+Notes
+
+~/.bashrc
+-includes Alias mygcc. Compiles c code with a number of flags
+-once copied, use $ source ~/.bashrc 
